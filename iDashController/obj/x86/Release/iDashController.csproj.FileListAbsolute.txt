@@ -1,0 +1,2 @@
+C:\Projects\iDash\Branches\0003\iDashController\iDashController\bin\Release\Disney.iDash.iDashController.exe.config
+C:\Dev\Visual Studio 2010\iDashController\trunk\bin\Release\iDashController-QA.exe.config

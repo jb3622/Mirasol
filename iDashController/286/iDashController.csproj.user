@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\sm-gblo-vtds05\srr\iDashController_QA\|\\sm-gblo-vtds05\srr\iDashController\|\\sm-gblo-vtds05\srr\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://sm-gblo-vtds05.emea.wdpr.disney.com/srr/iDashController_QA/|http://sm-gblo-vtds05.emea.wdpr.disney.com/srr/iDashController/|http://sm-gblo-vtds05.emea.wdpr.disney.com/srr/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
